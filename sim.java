@@ -20,7 +20,7 @@ public class sim {
 		else PC.add(word);
     	}
 	int correct = 0;
-	char prediction = 'a';
+	char prediction = 'b';
 	if(counterName.equals("smith")){
 	//int correct = 0;
 	int counter = 0;
