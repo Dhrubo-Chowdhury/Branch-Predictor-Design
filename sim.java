@@ -16,7 +16,7 @@ public class sim {
     	//int count = 0;
     	while (input.hasNext()) {
       		String word  = input.next();
-      		if(word.length() == 1) actual.add(word);
+      		if(word.length() == 2) actual.add(word);
 		else PC.add(word);
     	}
 	int correct = 0;
